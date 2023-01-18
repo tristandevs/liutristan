@@ -14,5 +14,5 @@
 </p>
 <br>
 
-<div align="center"><h4>.gg/onlp<h4/></div>  
+<div align="center"><h4>.gg/twitchtv<h4/></div>  
 
