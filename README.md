@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @liutristan
-- 👀 I’m interested in : coding
-- 🌱 I’m currently learning : school
-- 💞️ I’m looking to collaborate on : idk
-- 📫 How to reach me : Discord
+[![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liutristan)](https://github.com/liutristan)
