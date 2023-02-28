@@ -9,10 +9,10 @@
 <p align="left">
   <a href="https://cloudcant.github.io">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=liutristan&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tukz1&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=liutristan&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <br>
 
-<div align="center"><h4>.gg/twitchtv<h4/></div>  
+<div align="center"><h4>.gg/shuttle-services<h4/></div>  
 
