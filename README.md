@@ -14,5 +14,5 @@
 </p>
 <br>
 
-<div align="center"><h4>.gg/shuttle-services<h4/></div>  
+<div align="center"><h4>.gg/xi<h4/></div>  
 
