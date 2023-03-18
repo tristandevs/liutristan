@@ -1,6 +1,6 @@
 <p align="center"> <img src="![](https://komarev.com/ghpvc/?username=liutristan)"/> </p>
 <p href="Tukz" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/246309175523672064>
+    <img alt="" src=https://lanyard.cnrad.dev/api/203581629367713794>
 
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/liutristan" alt="liutristan" /> </p>
