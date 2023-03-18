@@ -8,8 +8,8 @@
 <br/>
 <p align="left">
   <a href="https://cloudcant.github.io">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=liutristan&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=liutristan&theme=tokyonight&hide_border=true" />
+    <img width="50px" src="https://github-readme-stats.vercel.app/api?username=liutristan&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="50px" src="https://github-readme-streak-stats.herokuapp.com/?user=liutristan&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <br>
